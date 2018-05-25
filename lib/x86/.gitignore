@@ -1,0 +1,3 @@
+# Licensed libs are excluded from this repo. Add your own here.
+tangible_tracker.lib
+tangible_tracker.dll
